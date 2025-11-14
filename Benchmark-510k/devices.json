@@ -1,0 +1,12 @@
+{
+  "devices": [
+    {
+      "manufacturer": "Manufacturer Name",
+      "aliases": [
+        "Device Name",
+        "Device Name v2.0",
+        "Device Name Version 3"
+      ]
+    }
+  ]
+}
