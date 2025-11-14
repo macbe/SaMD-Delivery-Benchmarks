@@ -65,7 +65,7 @@ Across the 52 actively developed SaMD products, the distribution of these metric
 | **n** | **36** | **52** | **52** |
 
 A few observations:
-- Significant changes are infrequent. Even the most frequently updated products only ship 510(k)-level changes about every 8 months. The median product is closer to every 20 months.
+- Significant changes are infrequent. Even the most frequently updated products only deliver 510(k)-level changes about every 8 months. The median product is closer to every 20 months.
 - There’s a wide spread between products. At the slow end, some products go more than 3 years between significant regulated changes, while others submit several times within a similar period.
 - Regulatory review is a substantial part of change lead time. Typical time to decision is 3–6 months (median ~5 months), which places a hard floor under how quickly certain types of changes can reach customers.
 

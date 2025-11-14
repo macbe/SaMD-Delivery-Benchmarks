@@ -6,7 +6,7 @@ A command-line tool that benchmarks 510(k) submissions using publicly available 
 
 ### Prerequisites
 
-- [.NET 9 SDK](https://dotnet.microsoft.com/download/dotnet/9.0) or later
+- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0) or later
 
 ### Steps
 
